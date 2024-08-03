@@ -19,6 +19,8 @@ import Checkout from './components/Checkout';
 function App() {
   return (
     <div className="App">
+
+      {/* For Routing */}
       <BrowserRouter>
       <Header/>
       <Routes>
